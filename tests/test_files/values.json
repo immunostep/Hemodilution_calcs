@@ -1,0 +1,62 @@
+[
+  {
+    "file": "1_Aurora.fcs",
+    "num_eventos": 815,
+    "IMF": 954822.5
+  },
+  {
+    "file": "6_Aurora.fcs",
+    "num_eventos": 774,
+    "IMF": 212256.609375
+  },
+  {
+    "file": "13_Aurora.fcs",
+    "num_eventos": 804,
+    "IMF": 2072.18811035156
+  },
+  {
+    "file": "1_Aria.fcs",
+    "num_eventos": 929,
+    "IMF": 94680.296875
+  },
+  {
+    "file": "6_Aria.fcs",
+    "num_eventos": 939,
+    "IMF": 27612.75
+  },
+  {
+    "file": "13_Aria.fcs",
+    "num_eventos": 931,
+    "IMF": 813.450012207031
+  },
+  {
+    "file": "1_Lyric.fcs",
+    "num_eventos": 563,
+    "IMF": 40498.171875
+  },
+  {
+    "file": "6_Lyric.fcs",
+    "num_eventos": 486,
+    "IMF": 14194.5385742187
+  },
+  {
+    "file": "13_Lyric.fcs",
+    "num_eventos": 492,
+    "IMF": 762.823791503906
+  },
+  {
+    "file": "1_Canto.fcs",
+    "num_eventos": 678,
+    "IMF": 165616.921875
+  },
+  {
+    "file": "6_Canto.fcs",
+    "num_eventos": 763,
+    "IMF": 27747.720703125
+  },
+  {
+    "file": "13_Canto.fcs",
+    "num_eventos": 886,
+    "IMF": 462.419982910156
+  }
+]
