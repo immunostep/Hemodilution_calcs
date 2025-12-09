@@ -1,5 +1,6 @@
 from ._operations import load_fcs, getImf, custom_hdbscan, apply_threshold, gate_diagonal_percentile_df, setChannels
 from typing import Tuple
+import matplotlib.pyplot as plt
 
 def getHemodilutionEventsImf(fcsFilePath: str, plot = False) -> Tuple[int, float]:
     meta, df = load_fcs(fcsFilePath)
@@ -14,5 +15,7 @@ def getHemodilutionEventsImf(fcsFilePath: str, plot = False) -> Tuple[int, float
 
     event_count = final.shape[0]
     imf = getImf(final)
+
+    plt.show()
     
     return event_count, imf
