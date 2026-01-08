@@ -16,6 +16,7 @@ def getHemodilutionEventsImf(fcsFilePath: str, plot = False) -> Tuple[int, float
     event_count = final.shape[0]
     imf = getImf(final)
 
-    plt.show()
+    if plot:
+        plt.show()
     
     return event_count, imf

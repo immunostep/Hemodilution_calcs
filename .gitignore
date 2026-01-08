@@ -3,3 +3,6 @@ hemodilution_calcs.egg-info/
 tests/__pycache__/
 .pytest_cache/
 build/
+__pycache__/
+**/__pycache__/
+*.py[cod]
